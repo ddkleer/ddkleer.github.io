@@ -9,6 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-**I am a first-year PhD Student in the Department of Social and Political Sciences at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/faculty+and+research/departments/Social+and+Political+Sciences/).** My research interests include political behavior, social influence in politics, campaigns, and comparative political parties. Mainly in (Western) Europe and the US. Before joining Bocconi University, I earned master's degrees from Duke University (USA) and Erasmus University (NL) and participated in the Fulbright scholarship [program](https://foreign.fulbrightonline.org/).
+**I am a first-year PhD Student in the Department of Social and Political Sciences at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/faculty+and+research/departments/Social+and+Political+Sciences/).** My research interests include political behavior, social influence in politics, campaigns, and comparative political parties. Mainly in (Western) Europe and the US. Before joining Bocconi University, I earned master's degrees from Duke University (USA) and Erasmus University (NL) and was a participant in the Fulbright [program](https://foreign.fulbrightonline.org/).
 
 
