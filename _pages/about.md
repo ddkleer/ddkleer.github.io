@@ -13,8 +13,7 @@ redirect_from:
 
 Before joining Bocconi University, I was a Fulbright graduate student at Duke University (2018-2020). Here, I earned an MA in Liberal Studies and graduated with an MA thesis supervised by Prof. Herbert Kitschelt in the Department of Political Science. In addition to political science coursework, I pursued coursework in history and public policy. Complementary to my MA degree, I earned a [Graduate Certificate in Interdisciplinary European Studies](https://gradschool.duke.edu/academics/programs-degrees/interdisciplinary-european-studies) from the [Duke Center for International and Global Studies](https://igs.duke.edu/). Before joining Duke, I also earned an MA degree in Media Studies from Erasmus University (NL), specializing mainly in political communication research.
 
-My studies have been supported by several merit-based scholarships including those from [Duke University](https://gradschool.duke.edu/about/awards), the [Fulbright Program](https://foreign.fulbrightonline.org/), the [VSB Foundation Scholarship program](https://www.vsbfonds.nl/over-vsbfonds), the [Prins Bernhard Cultuurfonds Fellowship](https://www.cultuurfonds.nl/cultuurfondsbeurzen), and the [Hendrik Muller Foundation](https://www.mullerfonds.nl/studiebeurs.php).  
-
+My studies have been supported by several merit-based scholarships and fellowships including those from Bocconi University, Duke University, the Fulbright Program, the VSB Foundation Scholarship program, the Prins Bernhard Cultuurfonds Fellowship and the Hendrik Muller Foundation.
 
 
 
