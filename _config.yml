@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dirck de Kleer"
 title_separator          : "-"
 name                     : &name "Dirck de Kleer"
-description              : &description "Hi, welcome to my site! My name is Dirck de Kleer. I'm currently a first-year PhD Student in Social and Political Science at Bocconi University. I'm interested in political behavior, elections, comparative political parties, and behavioral economics. Before joining Bocconi University, I earned master's degrees from Duke University (USA) and Erasmus University (NL). I'm also an alumnus of the Fulbright Scholarship program. "
+description              : &description "Hi, welcome to my site! My name is Dirck de Kleer. I'm currently a second-year PhD Student in Social and Political Science at Bocconi University. I'm interested in political behavior, elections, comparative political parties, and behavioral economics. Before joining Bocconi University, I earned master's degrees from Duke University (USA) and Erasmus University (NL). I'm also an alumnus of the Fulbright Scholarship program. "
 url                      : https://ddkleer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ddkleer.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dirck de Kleer"
   avatar           : "profilepic2.png"
-  bio              : "First-year PhD Student in Social and Political Science at Bocconi University."
+  bio              : "Second-year PhD Student in Social and Political Science at Bocconi University."
   location         : "Milan, Italy"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=0wlZMiUAAAAJ&hl=nl&oi=ao"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ddekleer"
+  twitter          : "dirckdekleer"
   vine             :
   weibo            :
   xing             :
