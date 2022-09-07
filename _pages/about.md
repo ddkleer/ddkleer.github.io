@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hey! I am a first-year PhD Student in Social and Political Science at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/faculty+and+research/departments/Social+and+Political+Sciences/).** I am broadly interested in political behavior, parties, and public opinion. 
+**Hey! I am a second-year PhD Student in Social and Political Science at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/faculty+and+research/departments/Social+and+Political+Sciences/).** I am broadly interested in political behavior, parties, and public opinion. 
 
 Before joining Bocconi University, I was a Fulbright graduate student at Duke University (2018-2020) where I earned an MA in Liberal Studies and a [Graduate Certificate in Interdisciplinary European Studies](https://gradschool.duke.edu/academics/programs-degrees/interdisciplinary-european-studies), majoring in political science (thesis supervisor: Herbert Kitschelt). Before Duke, I also earned an MA degree (with Distinction) in Media Studies from Erasmus University (NL) and a Bachelor's degree in Communication from Inholland University of Applied Sciences.
 
