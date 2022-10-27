@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my cv [here](files/dekleer_cv_oct_22.pdf)
+You can download my cv [here](dekleer_cv_oct_22.pdf)
