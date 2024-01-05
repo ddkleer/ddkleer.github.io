@@ -13,7 +13,7 @@ redirect_from:
 
 My research focuses on understanding how citizens and politicians navigate the boundaries between moderate and extreme political attitudes and behaviors. In other work, I explore the implications of far-right parties in government.
 
-During the Fall 2023, I will be a visiting student at Princeton University (Bobst Center for Peace and Justice). I also serve as an APSA Public Scholar Fellow during the 2023-24 A.Y. You can find public-faced summaries of APSR articles on [politicalsciencenow.com](https://www.politicalsciencenow.com).
+I'm currently a Visiting Student in Government at the London School of Economics. During the Fall 2023, I was a visiting student at Princeton University (Bobst Center for Peace and Justice). I also serve as an APSA Public Scholar Fellow during the 2023-24 A.Y. You can find public-faced summaries of APSR articles on [politicalsciencenow.com](https://www.politicalsciencenow.com).
 
 I earned an MA in Liberal Studies and [Graduate Certificate in Interdisciplinary European Studies](https://gradschool.duke.edu/academics/programs-degrees/interdisciplinary-european-studies) from Duke University (Concentration: Political Science) and an MA in Media Studies from Erasmus University (NL).
 
