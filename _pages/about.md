@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 **Hey! I am a fourth-year PhD Student in Social and Political Science at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/faculty+and+research/departments/Social+and+Political+Sciences/).**. 
-You can find a shortened version of my recent cv [here](https://www.unibocconi.it/sites/default/files/De%20Kleer_CV%20Bocconi%20Spring24.pdf).
+You can find a shortened version of my recent cv [here](https://t.ly/QkdVy).
 
 My research focuses on understanding how citizens and politicians navigate the boundaries between liberal and illiberal political attitudes and behaviors. In other work, I explore the implications of far-right parties in government.
 
