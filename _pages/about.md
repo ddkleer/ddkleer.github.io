@@ -20,5 +20,5 @@ If you have any questions about (applying to) grad school, the PhD program at Bo
 PS: This website is a placeholder for an updated personal website coming soon. You can find a shortened version of my recent cv [here](https://t.ly/QkdVy).
 
 ## Working Papers
-**de Kleer, D.**, van Teutem, S., & De Vries, C. E. (2024). _Public Support for Pro-Climate and Counter-Climate Protests._ Preprint [here}(https://osf.io/z7uvt)
+**de Kleer, D.**, van Teutem, S., & De Vries, C. E. (2024). _Public Support for Pro-Climate and Counter-Climate Protests._ Preprint [here](https://osf.io/z7uvt)
 
