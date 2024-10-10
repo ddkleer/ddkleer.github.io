@@ -15,9 +15,7 @@ During the 2023-24 academic year I was a visiting student at the Mamdouha S. Bob
 
 Before my doctoral studies, I earned an MA in Liberal Studies and [Graduate Certificate in Interdisciplinary European Studies](https://gradschool.duke.edu/academics/programs-degrees/interdisciplinary-european-studies) from Duke University (Concentration: Political Science), where I was a Fulbright Scholar,  and an MA in Media Studies from Erasmus University (NL). 
 
-If you have any questions about (applying to) grad school, the PhD program at Bocconi, or Fulbright get in touch with me. I especially encourage those from underrepresented groups in academia to reach out. You can reach me at dirck.dekleer`at`phd.unibocconi.it 
-
-PS: This website is a placeholder for an updated personal website coming soon. You can find a shortened version of my recent cv [here](https://t.ly/QkdVy).
+This website is a placeholder for an updated personal website coming soon. You can find a shortened version of my recent cv [here](https://t.ly/QkdVy).
 
 ## Working Papers
 **de Kleer, D.**, van Teutem, S., & De Vries, C. E. (2024). _Public Support for Pro-Climate and Counter-Climate Protests._ Preprint [here](https://osf.io/z7uvt)
