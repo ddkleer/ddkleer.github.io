@@ -4,10 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome! I'm a fourth-year PhD student in Social and Political Science at Bocconi University in Milan. In my research, I study many facets of 'illiberal' politics in Western liberal democracies, such as how we view disruptive and violent protests, how radical right politicians navigate collaboration in parliament, and how the success of radical right politicians affects how we view and treat minority groups. 
+Hi there! I’m a PhD Candidate in Social and Political Science at Bocconi University in Milan. My research looks at different sides of ‘illiberal’ politics in Western democracies. This includes things like how people react to disruptive or violent protests, if far-right politicians are willing to work with others in parliament, and how the success of far-right politicians shapes public views of minority groups.
 
-Before my PhD, I was a Fulbright scholar at Duke University, where I earned an MA in Liberal Studies with a focus on political science. I also studied media and journalism at Erasmus University Rotterdam. 
-
-During the 2023-24 academic year, I spent time as a visiting student at Princeton (Fall 2023) and the London School of Economics (Spring 2024). During this period I was also an APSA Public Scholar.
-
+Before my PhD, I was a Fulbright scholar at Duke University in Durham, North Carolina. Here, I earned a Master’s degree in Liberal Studies (major: political science). I also studied media and journalism at the Erasmus University in Rotterdam. In the 2023–24 academic year, I was a visiting student at Princeton University and, later, the London School of Economics. 
 {% include_relative _includes/publications.md %}
