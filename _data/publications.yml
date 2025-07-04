@@ -6,7 +6,7 @@ main:
     conference:
     pdf: https://osf.io/preprints/osf/z7uvt_v1
     bibtex: 
-    image: ./assets/img/cf.png
+    image: ./assets/img/protestimage.png
     notes: Under Review
 
   - title: Does Far-Right Success Increase Hostility Toward Minorities? Evidence from U.S. House Elections (2006 - 2022)
