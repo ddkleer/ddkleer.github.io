@@ -9,8 +9,7 @@ main:
     image: ./assets/img/cf.png
     notes: Under Review
 
-      - title: Does Far-Right Success Increase Hostility Toward Minorities? Evidence
-from U.S. House Elections (2006 - 2022)
+  - title: Does Far-Right Success Increase Hostility Toward Minorities? Evidence from U.S. House Elections (2006 - 2022)
     authors: <strong>Dirck de Kleer*</strong>, Alonso Román Amarales* (*Corresponding authors)
     conference_short:
     conference:
