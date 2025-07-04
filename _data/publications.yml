@@ -18,7 +18,7 @@ main:
     image: ./assets/img/cf_ideology_scale_years_combined.png
     notes: Draft available upon request
 
-  - title: From Exit to Reform Euroscepticism: The Evolution of Radical Right Opposition to the EU.
+  - title: "From Exit to Reform Euroscepticism: The Evolution of Radical Right Opposition to the EU."
     authors: Sara Hobolt, Catherine E. De Vries, Zach Dickson, <strong>Dirck de Kleer</strong>
     conference_short:
     conference:
