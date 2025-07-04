@@ -3,8 +3,8 @@ main:
   - title: Public Support for Pro-Environment and Environment-Critical Protests
     authors: <strong>Dirck de Kleer*</strong>, Catherine E. De Vries, Simon van Teutem (*Corresponding author)
     conference_short:
-    conference: Under Review.
+    conference:
     pdf: https://osf.io/preprints/osf/z7uvt_v1
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/protestimage.png
     notes: Under Review
