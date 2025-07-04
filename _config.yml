@@ -1,8 +1,6 @@
 navigation:
   - title: Home
     url: /
-  - title: Publications
-    url: /publications/
   - title: Teaching
     url: /teaching/
 
