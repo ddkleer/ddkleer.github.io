@@ -5,6 +5,6 @@ main:
     conference_short:
     conference:
     pdf: https://osf.io/preprints/osf/z7uvt_v1
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: 
     image: ./assets/img/protestimage.png
     notes: Under Review
