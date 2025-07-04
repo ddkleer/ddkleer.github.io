@@ -16,7 +16,7 @@ main:
     pdf: 
     bibtex: 
     image: ./assets/img/cf_ideology_scale_years_combined.png
-    notes: 
+    notes: Working Paper
 
   - title: "From Exit to Reform Euroscepticism: The Evolution of Radical Right Opposition to the EU."
     authors: Sara Hobolt, Catherine E. De Vries, Zach Dickson, <strong>Dirck de Kleer</strong>
@@ -25,7 +25,7 @@ main:
     pdf: 
     bibtex: 
     image: ./assets/img/hoboltetal.png
-    notes:  
+    notes: Working Paper
 
   - title: Can Consensus Institutions Temper the Radical Right? Evidence from Committee Deliberations
     authors: <strong>Dirck de Kleer</strong>
@@ -33,5 +33,5 @@ main:
     conference:
     pdf: 
     bibtex: 
-    image:
+    image: ./assets/img/wip.png
     notes: Work in Progress
