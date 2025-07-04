@@ -1,6 +1,6 @@
 main:
 
-  - title: Public Support for Pro-Environment and Environment-Critical Protests
+  - title: Public Support for Pro-Environment and Environment-Critical Protests.
     authors: <strong>Dirck de Kleer*</strong>, Catherine E. De Vries, Simon van Teutem (*Corresponding author)
     conference_short:
     conference:
@@ -9,7 +9,7 @@ main:
     image: ./assets/img/protestimage.png
     notes: Under Review
 
-  - title: Does Far-Right Success Increase Hostility Toward Minorities? Evidence from U.S. House Elections (2006 - 2022)
+  - title: Does Far-Right Success Increase Hostility Toward Minorities? Evidence from U.S. House Elections (2006 - 2022).
     authors: <strong>Dirck de Kleer*</strong>, Alonso Román Amarales* (*Corresponding authors)
     conference_short:
     conference:
@@ -17,3 +17,7 @@ main:
     bibtex: 
     image: ./assets/img/cf_ideology_scale_years_combined.png
     notes: Draft available upon request
+
+  - title: From Exit to Reform Euroscepticism: The Evolution of Radical Right Opposition to the EU.
+    authors: Sara Hobolt, Catherine E. De Vries, C.E., Zach Dickson, <strong>Dirck de KLeer</strong>
+    image: hoboltetal.png
