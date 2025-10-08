@@ -1,8 +1,9 @@
 navigation:
   - title: Home
     url: /
-  - title: Teaching
-    url: /teaching/
+   - title: "Resources"
+    url: /resources/
+
 
 
 # Basic Information 
