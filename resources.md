@@ -3,51 +3,6 @@ layout: page
 title: "Student Resources"
 ---
 
-<!-- ========= Scoped styles (won't mess with rest of site) ========= -->
-<style>
-  .res-wrap { --gap: 1rem; --radius: 14px; --pad: 1rem; }
-  .res-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: var(--gap);
-    margin: 1rem 0 2rem;
-  }
-  .res-card {
-    border: 1px solid rgba(0,0,0,.08);
-    border-radius: var(--radius);
-    padding: var(--pad);
-    box-shadow: 0 4px 14px rgba(0,0,0,.04);
-    background: var(--card-bg, #fff);
-    transition: transform .08s ease, box-shadow .2s ease;
-  }
-  .res-card:hover { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(0,0,0,.08); }
-  .res-card h3 { margin-top: .2rem; font-size: 1.05rem; }
-  .res-card p { margin: .4rem 0 .6rem; font-size: .95rem; }
-  .res-actions a {
-    display: inline-block; margin-right: .5rem; margin-top: .25rem;
-    padding: .45rem .7rem; border-radius: 999px; font-size: .9rem;
-    text-decoration: none; border: 1px solid rgba(0,0,0,.12);
-  }
-  .btn { background: #111; color: #fff; border-color: #111; }
-  .btn:hover { filter: brightness(1.05); }
-  .chip { background: #f6f6f6; }
-  .section-title { margin: 2.2rem 0 0.6rem; font-size: 1.25rem; }
-  .muted { color: #666; font-size: .95rem; }
-  .two-col {
-    display: grid; gap: var(--gap);
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    margin: .5rem 0 1.5rem;
-  }
-  .list-clean { margin: .3rem 0 0; padding-left: 1.2rem; }
-  .list-clean li { margin: .25rem 0; }
-  .note {
-    border-left: 4px solid #111; padding: .8rem 1rem; background: #fafafa;
-    border-radius: 10px; margin: 1rem 0 1.4rem;
-  }
-</style>
-
-<div class="res-wrap">
-
 ## 📚 Quick Links
 
 <div class="res-grid">
