@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Teaching
-permalink: /teaching/
+title: "Future of Europe - Student Resources"
+permalink: /resources/
 ---
 
-<!-- Your teaching content goes here -->
-This is the teaching page. You can list courses, syllabi, etc.
+Here are some useful materials for students:
+
+- [Reading list (PDF)](https://example.com/reading-list.pdf)
+- [Citation guide](https://example.com/citation-guide.html)
+- [Datasets and materials](https://example.com/data.zip)
