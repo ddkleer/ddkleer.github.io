@@ -4,10 +4,11 @@ main:
     authors: <strong>Dirck de Kleer*</strong>, Catherine E. De Vries, Simon van Teutem (*Corresponding author)
     conference_short:
     conference:
-    pdf: https://osf.io/preprints/osf/z7uvt_v1
+    pdf: https://www.cambridge.org/core/journals/british-journal-of-political-science/article/public-support-for-proenvironment-and-environmentcritical-movements/F32C5F701D8904C5339EB30276B88866
+    data: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SLC5YO
     bibtex: 
     image: ./assets/img/protestimage.png
-    notes: Provisionally Accepted in British Journal of Political Science
+    notes: British Journal of Political Science
 
   - title: "From Exit to Reform Euroscepticism: The Evolution of Radical Right Opposition to the EU."
     authors: Sara Hobolt, Catherine E. De Vries, Zach Dickson, <strong>Dirck de Kleer</strong>
