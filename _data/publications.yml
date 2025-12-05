@@ -10,6 +10,15 @@ main:
     image: ./assets/img/protestimage.png
     notes: British Journal of Political Science
 
+  - title: Far-Right Success and Hate Crimes.
+    authors: <strong>Dirck de Kleer*</strong>, Alonso Román Amarales* (*Corresponding authors)
+    conference_short:
+    conference:
+    pdf: 
+    bibtex: 
+    image: ./assets/img/cf_ideology_scale_years_combined.png
+    notes: Working Paper
+
   - title: "From Exit to Reform Euroscepticism: The Evolution of Radical Right Opposition to the EU."
     authors: Sara Hobolt, Catherine E. De Vries, Zach Dickson, <strong>Dirck de Kleer</strong>
     conference_short:
@@ -18,15 +27,6 @@ main:
     bibtex: 
     image: ./assets/img/hoboltetal.png
     notes: Working Paper
-
-  - title: Does Far-Right Success Increase Hostility Toward Minorities? Evidence from U.S. House Elections (2006 - 2022).
-    authors: <strong>Dirck de Kleer*</strong>, Alonso Román Amarales* (*Corresponding authors)
-    conference_short:
-    conference:
-    pdf: 
-    bibtex: 
-    image: ./assets/img/cf_ideology_scale_years_combined.png
-    notes: Work-in-Progress
 
   - title: Anti-Establishment Parties and Disruption of the Legislative Process (solo project)
     authors: <strong>Dirck de Kleer</strong>
