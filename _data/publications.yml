@@ -7,7 +7,7 @@ main:
     pdf: https://www.cambridge.org/core/journals/british-journal-of-political-science/article/public-support-for-proenvironment-and-environmentcritical-movements/F32C5F701D8904C5339EB30276B88866
     data: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SLC5YO
     bibtex: 
-    image: ./assets/img/protestimage.png
+    image:  
     notes: British Journal of Political Science
 
   - title: Far-Right Success and Hate Crimes.
@@ -16,7 +16,7 @@ main:
     conference:
     pdf: 
     bibtex: 
-    image: ./assets/img/cf_ideology_scale_years_combined.png
+    image:  
     notes: Working Paper
 
   - title: "From Exit to Reform Euroscepticism: The Evolution of Radical Right Opposition to the EU."
@@ -25,7 +25,7 @@ main:
     conference:
     pdf: 
     bibtex: 
-    image: ./assets/img/hoboltetal.png
+    image:  
     notes: Working Paper
 
   - title: Anti-Establishment Parties and Disruption of the Legislative Process (solo project)
@@ -34,5 +34,5 @@ main:
     conference:
     pdf: 
     bibtex: 
-    image: ./assets/img/share_far_right.png
+    image:  
     notes: Work-in-Progress
