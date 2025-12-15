@@ -16,7 +16,8 @@ During the 2023–24 academic year, I was a visiting student at Princeton Univer
 [Public Support for Pro-Environment and Environment-Critical Protests](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/public-support-for-proenvironment-and-environmentcritical-movements/F32C5F701D8904C5339EB30276B88866)  
 **Dirck de Kleer**, Catherine E. De Vries, Simon van Teutem  
 _British Journal of Political Science_  
-![Static Badge](https://img.shields.io/badge/pdf-red)(https://www.cambridge.org/core/journals/british-journal-of-political-science/article/public-support-for-proenvironment-and-environmentcritical-movements/F32C5F701D8904C5339EB30276B88866)
+[![Static Badge](https://img.shields.io/badge/pdf-red)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/public-support-for-proenvironment-and-environmentcritical-movements/F32C5F701D8904C5339EB30276B88866)
+
 
 
 ### Working Papers
