@@ -17,6 +17,7 @@ During the 2023–24 academic year, I was a visiting student at Princeton Univer
 * [**From Exit to Reform Euroscepticism: The Evolution of Radical Right Opposition to the EU**](https://ddkleer.github.io) (with Sara Hobolt, Catherine E. De Vries, and Zach Dickson)
  
 ## Work in Progress
+* [**The DCDD: The Dutch Committee Deliberations Dataset**](https://ddkleer.github.io)
 * [**Anti-Establishment Parties and Disruption of the Legislative Process**](https://ddkleer.github.io)
 
  
