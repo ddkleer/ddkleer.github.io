@@ -1,25 +1,12 @@
 ---
-layout: homepage
+layout: page
 ---
 
-# **About me** 
-Hi there! I’m a PhD Candidate in Social and Political Science at Bocconi University in Milan. I'm currently working remotely from Rotterdam, the Netherlands. In my main line of research I try to understand the broad consequences of far-right success in Western liberal democracies. This ranges from hate crimes against minority groups to the legislative behavior of far-right MPS. My research has been published in the _British Journal of Political Science_.
-
-During the 2023–24 academic year, I was a visiting student at Princeton University and the London School of Economics.  Before embarking on a PhD, I obtained master's degrees from Duke University and the Erasmus University in Rotterdam. 
-
-
-# **Research**
-
-## Publications
-* [**Public Support for Pro-Environment and Environment-Critical Protests**](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/public-support-for-proenvironment-and-environmentcritical-movements/F32C5F701D8904C5339EB30276B88866) (with Catherine E. De Vries, Simon van Teutem). _British Journal of Political Science_  [![Static Badge](https://img.shields.io/badge/pdf-grey)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/public-support-for-proenvironment-and-environmentcritical-movements/F32C5F701D8904C5339EB30276B88866) [![Static Badge](https://img.shields.io/badge/data-blue)]([https://www.cambridge.org/core/journals/british-journal-of-political-science/article/public-support-for-proenvironment-and-environmentcritical-movements/F32C5F701D8904C5339EB30276B88866](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SLC5YO)) 
-
-## Working Papers
-* [**Far-Right Success and Hate Crimes**](https://ddkleer.github.io) (with Alonso Román Amarales) 
- 
-* [**From Exit to Reform Euroscepticism: The Evolution of Radical Right Opposition to the EU**](https://ddkleer.github.io) (with Sara Hobolt, Catherine E. De Vries, and Zach Dickson)
- 
-## Work in Progress
-* [**The DCDD: The Dutch Committee Deliberations Dataset**](https://ddkleer.github.io)
-* [**Anti-Establishment Parties and Disruption of the Legislative Process**](https://ddkleer.github.io)
-
- 
+<div style="display: flex; gap: 2em; align-items: flex-start;">
+  <img src="assets/img/profilepic2.png" alt="Dirck de Kleer" style="width: 270px; flex-shrink: 0; border-radius: 4px;">
+  <div>
+    <p>Hi there! I'm a fifth-year PhD Candidate in Social and Political Science at Bocconi University in Milan. I'm currently working remotely from Rotterdam, the Netherlands. </p>
+    <p> My research focuses on political behavior, public opinion, and legislative politics in Western liberal democracies. In my dissertation I study the consequences of far-right success. For example: I study whether this leads to more hate crimes or how it affects day-to-day work in parliament. My research has been published in the <em>British Journal of Political Science</em>.</p>
+    <p>During my PhD I was a visiting doctoral student at Princeton University and the London School of Economics. Before starting my doctoral studies, I completed master’s degrees at Duke University (as a Fulbright scholar) and Erasmus University Rotterdam.</p>
+  </div>
+</div>

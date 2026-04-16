@@ -1,61 +1,42 @@
-navigation:
-  - title: Home
-    url: /
-  - title: "Future of Europe 2025-2026"
-    url: /foe2025/
+title: "HOME"
 
+# Author information
+author:
+  name: Dirck de Kleer
 
+# Site description (used by jekyll-seo-tag)
+description: "PhD Candidate in Social and Political Science at Bocconi University. Research on far-right politics, hate crimes, and legislative behavior."
 
-# Basic Information 
-title: Dirck de Kleer
-position: Ph.D. Candidate
-affiliation: Bocconi University 
-
-# Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light, dirck de kleer, website, political science
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
-
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
+# Links
 google_scholar: https://scholar.google.nl/citations?user=0wlZMiUAAAAJ&hl=en&oi=ao
 cv_link: assets/files/cv_dekleer-2025-12-05.pdf
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/profilepic2.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
-
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
-
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: false
-
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
+# Google Analytics
 google_analytics: G-KPBZWJ30ZY
 
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
+# Theme
+theme: jekyll-theme-low
 
-# The following files will be removed from the generated website.
+# Navigation controls
+show_archive: false
+show_rss: false
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Exclude from build
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
-  - minimal-light.gemspec
   - html_source_file/
+  - foe2025.md

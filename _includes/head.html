@@ -1,0 +1,26 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=12.0, minimum-scale=1.0, user-scalable=yes">
+<title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+<style>
+  html {
+    font-family: 'IBM Plex Mono', 'DejaVu Sans Mono', 'Consolas', monospace;
+  }
+  p, li, blockquote, td, th {
+    font-family: 'IBM Plex Serif', Georgia, serif;
+    font-size: 16px;
+  }
+</style>
+
+{% if site.favicon %}
+  <link rel="icon" href="{{ site.favicon | relative_url }}">
+{% endif %}
+
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="{{ site.feed.path | default: '/rss.xml' | relative_url }}">
+
+{% seo %}
