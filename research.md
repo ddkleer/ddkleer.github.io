@@ -24,5 +24,7 @@ title: Research
 
 - **De Kleer, Dirck**. "The DCDD: The Dutch Committee Deliberations Dataset." [Data Descriptor]
 
+- **De Kleer, Dirck**. "From Far Right to Mainstream: Ministerial Turnover and Responsible Government."
+
 
 
