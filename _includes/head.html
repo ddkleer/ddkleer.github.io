@@ -15,6 +15,36 @@
     font-family: 'IBM Plex Serif', Georgia, serif;
     font-size: 16px;
   }
+
+  /* Homepage intro: photo beside text on wide screens */
+  .home-intro {
+    display: flex;
+    gap: 2em;
+    align-items: flex-start;
+  }
+  .home-intro > img {
+    width: 270px;
+    flex-shrink: 0;
+    border-radius: 4px;
+  }
+
+  /* Mobile adjustments */
+  @media (max-width: 600px) {
+    /* Stack the photo above the text and center it */
+    .home-intro {
+      flex-direction: column;
+      gap: 1em;
+      align-items: center;
+    }
+    .home-intro > img {
+      width: 100%;
+      max-width: 300px;
+    }
+    /* Justified text creates ugly gaps on narrow screens */
+    p, li, blockquote {
+      text-align: left;
+    }
+  }
 </style>
 
 {% if site.favicon %}
