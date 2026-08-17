@@ -12,7 +12,7 @@ title: Research
 
 ## Working Papers
 
-- **De Kleer, Dirck**. "The Far Right and Legislative Erosion: Evidence from Committee Deliberations" (draft upon request)
+- **De Kleer, Dirck**. "Does the Parliamentary Presence of Far-Right MPS Increase Rule-Breaking? Evidence from Committee Debates" (draft upon request)
 
 - **De Kleer, Dirck**, and Alonso Román Amarales. "Far-Right Success and Hate Crimes." (draft upon request)
 
