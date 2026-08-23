@@ -22,7 +22,7 @@ title: Research
 
 ## Work in Progress
 
-- The DCDD: The Dutch Committee Deliberations Dataset. [Data Descriptor]
+- DCDD: The Dutch Committee Debates Dataset (2008-2026). [Data Descriptor]
 
 - HOPE: A New Measure of Heterogeneity of Party Electorates in Western Europe.
 
