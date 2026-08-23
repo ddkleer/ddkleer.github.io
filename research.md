@@ -28,7 +28,7 @@ title: Research
 
 - **De Kleer, Dirck**. "Repertoires of Parliamentary Disruption: Historical Evidence from Fascist Parties in Parliament"
 
-- - **De Kleer, Dirck**. "The Effects of Far-Right Messages (Meta-Analysis)."
+- **De Kleer, Dirck**. "The Effects of Far-Right Messages (Meta-Analysis)."
 
 
 
