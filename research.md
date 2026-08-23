@@ -22,13 +22,13 @@ title: Research
 
 ## Work in Progress
 
-- **De Kleer, Dirck**. "The DCDD: The Dutch Committee Deliberations Dataset." [Data Descriptor]
+- The DCDD: The Dutch Committee Deliberations Dataset. [Data Descriptor]
 
-- **De Kleer, Dirck**. "HOPE: A New Measure of Heterogeneity of Party Electorates in Western Europe."
+- HOPE: A New Measure of Heterogeneity of Party Electorates in Western Europe.
 
-- **De Kleer, Dirck**. "Repertoires of Parliamentary Disruption: Historical Evidence from Fascist Parties in Parliament"
+- Repertoires of Parliamentary Disruption: Historical Evidence from Fascist Parties in Parliament.
 
-- **De Kleer, Dirck**. "The Effects of Far-Right Messages (Meta-Analysis)."
+- The Effects of Far-Right Messages (Meta-Analysis).
 
 
 
