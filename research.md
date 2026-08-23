@@ -5,8 +5,7 @@ title: Research
 
 ## Publications
 
-- **De Kleer, Dirck**, Catherine E. De Vries, and Simon van Teutem. "Public Support for Pro-Environment and Environment-Critical Protests." _**British Journal of Political Science**_.
-([pdf](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/public-support-for-proenvironment-and-environmentcritical-movements/F32C5F701D8904C5339EB30276B88866)) ([data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SLC5YO))
+- **De Kleer, Dirck**, Catherine E. De Vries, and Simon van Teutem. "Public Support for Pro-Environment and Environment-Critical Protests." <span style="color: #0000EE; font-weight: bold;">British Journal of Political Science</span>.
 
 ---
 
