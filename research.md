@@ -24,7 +24,11 @@ title: Research
 
 - **De Kleer, Dirck**. "The DCDD: The Dutch Committee Deliberations Dataset." [Data Descriptor]
 
-- **De Kleer, Dirck**. "From Far Right to Mainstream: Ministerial Turnover and Responsible Government."
+- **De Kleer, Dirck**. "HOPE: A New Measure of Heterogeneity of Party Electorates in Western Europe."
+
+- **De Kleer, Dirck**. "Repertoires of Parliamentary Disruption: Historical Evidence from Fascist Parties in Parliament"
+
+- - **De Kleer, Dirck**. "The Effects of Far-Right Messages (Meta-Analysis)."
 
 
 
