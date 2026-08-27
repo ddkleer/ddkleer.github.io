@@ -15,15 +15,13 @@ title: Research
 
 - **De Kleer, Dirck**, and Alonso Román Amarales. "Far-Right Success and Hate Crimes." (draft upon request)
 
-- Hobolt, Sara, Catherine E. De Vries, Zach Dickson, and **Dirck de Kleer**. "From Exit to Reform Euroscepticism: The Evolution of Radical Right Opposition to the EU."
-
 ---
 
 ## Work in Progress
 
 - DCDD: The Dutch Committee Debates Dataset (2008-2026). [Data Descriptor]
 
-- HOPE: A New Measure of Heterogeneity of Party Electorates in Western Europe.
+- Party Electorate Heterogeneity in Western Europe.
 
 - Repertoires of Parliamentary Disruption: Historical Evidence from Fascist Parties in Parliament.
 
