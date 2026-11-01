@@ -31,13 +31,12 @@ title: Research
 
 ## Work in Progress
 
-- DCDD: The Dutch Committee Debates Dataset (2008-2026). [Data Descriptor]
+- The DCDD: The Dutch Committee Debates Dataset. [Data Descriptor]
 
-- Party Electorate Heterogeneity in Western Europe.
+- The Effect of Far-Right Cues: A Meta-Reanalysis of Randomized Experiments.
 
-- Repertoires of Parliamentary Disruption: Historical Evidence from Fascist Parties in Parliament.
+- Heterogeneity of Party Electorates in Western Europe.
 
-- The Effects of Far-Right Messages (Meta-Analysis).
+- Local Dynamics of Collaboration in the Nazi-Occupied Netherlands.
 
-
-
+- How Fascist Parties Disrupt Parliamentary Democracy.
