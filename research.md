@@ -20,16 +20,14 @@ Parliamentary Norms: Evidence from Committee
 Debates." (draft upon request)
 
   <details class="abstract"><summary>Abstract</summary>
-  <p>Parliamentary politics relies on informal decorum rules to structure interactions and deper-
-sonalize political conflict. Yet, we know little about when and why parliamentary chairs choose
+  <p>Parliamentary politics relies on informal decorum rules to structure interactions and deperonalize political conflict. Yet, we know little about when and why parliamentary chairs choose
 to enforce these rules. In this study I examine how the presence of far-right MPs shapes the
 enforcement of parliamentary decorum. I argue that far-right MPs have an incentive to provoke
 visible conflict with institutions, and that chairs respond to this escalation risk by lowering their
 threshold for intervening. I test this argument with a novel dataset of nearly 800,000 speeches
 from Dutch parliamentary committee debates (2008–2026). I measure decorum enforcement
 through the informal norm in Dutch parliament that MPs address one another through the chair.
-Leveraging variation in far-right attendance across committee debates, I find that chairs inter-
-vene far more often when the far right is present. This stricter enforcement applies both to
+Leveraging variation in far-right attendance across committee debates, I find that chairs intervene far more often when the far right is present. This stricter enforcement applies both to
 far-right and mainstream MPs as chairs tighten the standard for everyone in the meeting. The
 results suggest that consequences of far-right success extend to the legislative work of chairs,
 who respond to escalation risks with increased vigilance</p>
