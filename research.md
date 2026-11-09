@@ -15,10 +15,24 @@ title: Research
 
 ## Working Papers
 
-- **De Kleer, Dirck**. "The Far Right and Loss of Parliamentary Decorum: Evidence from Committee Debates." (draft upon request)
+- **De Kleer, Dirck**. "The Far Right and Enforcement of Informal
+Parliamentary Norms: Evidence from Committee
+Debates." (draft upon request)
 
   <details class="abstract"><summary>Abstract</summary>
-  <p>Parliamentary politics relies on decorum to structure political conflict. Yet we know little about when this adherence breaks down. I examine whether the presence of far-right MPs leads to a loss of parliamentary decorum. I argue that far-right MPs deliberately break decorum to cultivate an outsider image, and that this provokes mainstream MPs to respond in kind. I test this argument with a novel dataset of nearly 800,000 speeches from Dutch parliamentary committee debates (2008–2026). I use a parsimonious measurement strategy, measuring losses in decorum as instances where MPs fail to speak through the chair. Leveraging variation in far-right attendance across meetings, I find that the presence of far-right MPs leads to decorum losses. These are concentrated among both far-right and mainstream MPs. The results suggest that the democratic consequences of far-right politics extends to the conduct of legislative work, where their mere presence erodes the norms that keep parliamentary conflict impersonal.</p>
+  <p>Parliamentary politics relies on informal decorum rules to structure interactions and deper-
+sonalize political conflict. Yet, we know little about when and why parliamentary chairs choose
+to enforce these rules. In this study I examine how the presence of far-right MPs shapes the
+enforcement of parliamentary decorum. I argue that far-right MPs have an incentive to provoke
+visible conflict with institutions, and that chairs respond to this escalation risk by lowering their
+threshold for intervening. I test this argument with a novel dataset of nearly 800,000 speeches
+from Dutch parliamentary committee debates (2008–2026). I measure decorum enforcement
+through the informal norm in Dutch parliament that MPs address one another through the chair.
+Leveraging variation in far-right attendance across committee debates, I find that chairs inter-
+vene far more often when the far right is present. This stricter enforcement applies both to
+far-right and mainstream MPs as chairs tighten the standard for everyone in the meeting. The
+results suggest that consequences of far-right success extend to the legislative work of chairs,
+who respond to escalation risks with increased vigilance</p>
   </details>
 
 - **De Kleer, Dirck**, and Alonso Román Amarales. "Does Far-Right Success Increase Hate Crimes? Evidence from U.S. House Elections (2006–2022)." (draft upon request)
